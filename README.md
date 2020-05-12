@@ -1,2 +1,2 @@
 # interval
-provides functionality for time interval.
+Package interval provides functionality for time interval.
